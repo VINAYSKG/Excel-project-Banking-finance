@@ -1,1 +1,2 @@
-# Excel-project-Banking-finance
+Banking & Finance.pdf
+Built Banking & Finance dashboards to predict loan defaults, profile customer risk, and track portfolio performance. Analyzed 165+ customer records with avg. income ≈83.8K, loan ≈27.5K, age ≈45. Identified 26% default rate, segmented risks (High 19%, Medium 31%, Low 50%), and mapped ROI trends across diversified portfolios, enabling data-driven loan approvals and investment decisions.
